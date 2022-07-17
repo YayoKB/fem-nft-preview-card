@@ -112,12 +112,16 @@ p {
   color: var(--cyan);
   font-size: 1rem;
   font-weight: 400;
+  display: flex;
+  align-items: center;
 }
 
 .time {
   color: var(--soft-blue);
   font-size: 1rem;
   font-weight: 300;
+  display: flex;
+  align-items: center;
 }
 
 .time img,
